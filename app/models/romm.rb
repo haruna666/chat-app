@@ -1,2 +1,0 @@
-class Romm < ApplicationRecord
-end
