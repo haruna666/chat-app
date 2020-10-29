@@ -1,0 +1,2 @@
+class Romm < ApplicationRecord
+end
